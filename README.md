@@ -1,0 +1,2 @@
+# ZSTQuest
+jRPG about ZST
